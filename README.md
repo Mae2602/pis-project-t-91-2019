@@ -1,2 +1,2 @@
 # pis-project-t-91-2019
-This project has been created to show our code regarding the project 
+#this is a repository for an audio visualizer and the project has been named 'A new-fangled symphony'
